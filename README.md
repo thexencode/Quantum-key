@@ -1,2 +1,2 @@
 # Quantum-key
-this is just a basic website of adata protection company
+this is a dummy website for a school project aim of the site is to provide information about a cybersecurity company
